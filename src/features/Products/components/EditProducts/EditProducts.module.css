@@ -1,0 +1,11 @@
+.bg_color {
+  background: #4489c3;
+}
+
+.bg_tranparente_white {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.contenedor {
+  height: 100vh;
+}

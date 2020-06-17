@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "nameProducts": "Laptop 14' Core i7 9na Generation",
+      "priceProducts": "5499",
+      "id": 14
+    },
+    {
+      "nameProducts": "Laptop MSI 16' Core i9 9th Generation",
+      "priceProducts": "7500",
+      "id": 15
+    },
+    {
+      "nameProducts": "Samsung Galaxy s20 plus 128GB",
+      "priceProducts": "4500",
+      "id": 16
+    },
+    {
+      "nameProducts": "Huawei Mate 20 Pro 128GB",
+      "priceProducts": "3500",
+      "id": 17
+    },
+    {
+      "nameProducts": "iPhone 11 Pro Max 128GB",
+      "priceProducts": "5000",
+      "id": 18
+    },
+    {
+      "nameProducts": "MacBook Pro 16' 2020",
+      "priceProducts": "10000",
+      "id": 19
+    },
+    {
+      "nameProducts": "Cepillo Para Cabello",
+      "priceProducts": "1.5",
+      "id": 20
+    },
+    {
+      "nameProducts": "Redmi Airdots Bluethoot",
+      "priceProducts": 75,
+      "id": 21
+    }
+  ]
+}

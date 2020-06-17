@@ -1,0 +1,10 @@
+.main {
+  background-image: url(./img/background.jpg);
+  background-size: cover;
+  min-height: 100%;
+}
+
+.section {
+  height: 100%;
+  padding-bottom: 50px;
+}
